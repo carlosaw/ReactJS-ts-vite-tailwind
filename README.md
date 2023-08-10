@@ -7,18 +7,27 @@ Projeto realizado no curso de ReactJS
 ## Run project
 - ` npm run dev`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Vite + ReactJS + typescript + tailwind
+Projeto realizado no curso de ReactJS
 
-Currently, two official plugins are available:
+## Instalation
+- `npm install`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run project
+- ` npm run dev`
 
-## Expanding the ESLint configuration
+Este modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Atualmente, dois plugins oficiais estão disponíveis:
 
-- Configure the top-level `parserOptions` property like this:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usa [Babel](https://babeljs.io/) para atualização rápida
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usa [SWC](https://swc.rs/) para atualização rápida
+
+## Expandindo a configuração do ESLint
+
+Se você estiver desenvolvendo um aplicativo de produção, recomendamos atualizar a configuração para habilitar as regras de fiapos com reconhecimento de tipo:
+
+- Configure a propriedade 'parserOptions' de nível superior da seguinte forma:
 
 ```js
    parserOptions: {
@@ -29,6 +38,6 @@ If you are developing a production application, we recommend updating the config
    },
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Substituir `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` ou `plugin:@typescript-eslint/strict-type-checked`
+- Adicionar opcionalmente `plugin:@typescript-eslint/stylistic-type-checked`
+- Instalar [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) e adicionar `plugin:react/recommended` & `plugin:react/jsx-runtime` para o `extends` lista
