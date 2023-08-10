@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+# Vite + ReactJS + typescript + tailwind
+Projeto realizado no curso de ReactJS
+
+## Instalation
+- `npm install`
+
+## Run project
+- ` npm run dev`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
