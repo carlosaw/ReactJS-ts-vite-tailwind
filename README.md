@@ -1,11 +1,14 @@
-# Vite + ReactJS + typescript + tailwind
+## Vite + ReactJS + typescript + tailwind
 Projeto realizado no curso de ReactJS
 
-## Instalation
+### Instalation
 - `npm install`
 
-## Run project
+### Run project
 - `npm run dev`
+
+### Land Page
+[vercel](https://ts-vite-tailwind-movies.vercel.app/)
 
 # Vite + ReactJS + typescript + tailwind
 Projeto realizado no curso de ReactJS
