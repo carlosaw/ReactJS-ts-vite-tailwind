@@ -5,7 +5,7 @@ Projeto realizado no curso de ReactJS
 - `npm install`
 
 ## Run project
-- ` npm run dev`
+- `npm run dev`
 
 # Vite + ReactJS + typescript + tailwind
 Projeto realizado no curso de ReactJS
